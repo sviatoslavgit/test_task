@@ -1,0 +1,22 @@
+[
+    {
+        "field1": "value1",
+        "animal": "dog"
+    },
+    {
+        "field1": "value1",
+        "animal": "cat"
+    },
+    {
+        "field1": "value1",
+        "animal": "cow"
+    },
+    {
+        "field1": "value1",
+        "animal": "rat"
+    },
+    {
+        "field1": "value1",
+        "animal": "alien"
+    }
+]
